@@ -1,0 +1,3 @@
+rootProject.name = 'palat_2910'
+
+include ':app'
